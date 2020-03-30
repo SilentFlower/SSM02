@@ -1,0 +1,6 @@
+# Project exclude paths
+/practice_ssm02_dao/target/
+/practice_ssm02_domain/target/
+/practice_ssm02_service/target/
+/practice_ssm02_util/target/
+/practice_ssm02_web/target/
